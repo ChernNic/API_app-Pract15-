@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#47ec91" /> <!-- Замените #your_button_color на цвет вашей кнопки -->
+    <corners android:radius="1000dp" /> <!-- Устанавливает радиус скругления (половина ширины/высоты) -->
+</shape>
